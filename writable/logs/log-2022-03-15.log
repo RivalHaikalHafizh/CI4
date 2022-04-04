@@ -1,0 +1,56 @@
+CRITICAL - 2022-03-15 21:03:02 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:03:27 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:03:27 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:04:35 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:04:36 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:04:42 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:04:43 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
+CRITICAL - 2022-03-15 21:04:44 --> Call to a member function setDefaultNamespace() on null
+#0 C:\laragon\www\CI_4\system\CodeIgniter.php(713): require()
+#1 C:\laragon\www\CI_4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#2 C:\laragon\www\CI_4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\CI_4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\laragon\www\CI_4\system\Commands\Server\rewrite.php(43): require_once('C:\\laragon\\www\\...')
+#5 {main}
